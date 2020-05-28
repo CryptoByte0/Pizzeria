@@ -34,7 +34,7 @@ li {
 	background-image: url(../images/header-bg.jpg);
 	background-size: cover;
 	background-repeat: no-repeat;
-	min-height: 100vh;
+	height: 100vh;
 	z-index: 0;
 	position: relative;
 }
@@ -484,7 +484,6 @@ li {
 	padding: 90px 40px 30px 40px;
 	margin-top: 90px;
 	margin: 0 0 0 auto;
-
 }
 
 .masterclass__card-title {
