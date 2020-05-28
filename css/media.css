@@ -218,6 +218,9 @@
     .new__title {
         padding: 0;
     }
+    .gallary__slide-item + .gallary__slide-item {
+        padding: 0;
+    }
 }
 
 @media(max-width: 560px) {
